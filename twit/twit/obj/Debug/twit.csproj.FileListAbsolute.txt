@@ -1,0 +1,17 @@
+c:\users\phill\documents\visual studio 2015\Projects\twit\twit\bin\Debug\twit.exe.config
+c:\users\phill\documents\visual studio 2015\Projects\twit\twit\bin\Debug\twit.exe
+c:\users\phill\documents\visual studio 2015\Projects\twit\twit\bin\Debug\twit.pdb
+c:\users\phill\documents\visual studio 2015\Projects\twit\twit\obj\Debug\twit.csprojResolveAssemblyReference.cache
+c:\users\phill\documents\visual studio 2015\Projects\twit\twit\obj\Debug\twit.exe
+c:\users\phill\documents\visual studio 2015\Projects\twit\twit\obj\Debug\twit.pdb
+F:\twit\twit\bin\Debug\twit.exe.config
+F:\twit\twit\obj\Debug\twit.exe
+F:\twit\twit\obj\Debug\twit.pdb
+F:\twit\twit\bin\Debug\twit.exe
+F:\twit\twit\bin\Debug\twit.pdb
+F:\twit\twit\obj\Debug\twit.csprojResolveAssemblyReference.cache
+F:\twit\twit\bin\Debug\Newtonsoft.Json.dll
+F:\twit\twit\bin\Debug\Newtonsoft.Json.xml
+E:\twit\twit\bin\Debug\twit.exe.config
+E:\twit\twit\obj\Debug\twit.exe
+E:\twit\twit\obj\Debug\twit.pdb
